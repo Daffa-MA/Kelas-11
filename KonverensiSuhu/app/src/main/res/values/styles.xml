@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="SpinnerDarkTheme" parent="android:Widget.Material.Spinner">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

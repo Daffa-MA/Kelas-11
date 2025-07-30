@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string-array name="conversion_options">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Celsius to Kelvin</item>
+    </string-array>
+</resources>
